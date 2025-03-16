@@ -84,7 +84,7 @@ var config_data = `
       },
       "defaultValue": "o"
     },
-    { "name": "Comments",
+    { "name": "General Comments",
       "code": "co",
       "type": "text",
       "size": 20,

@@ -29,6 +29,10 @@ var config_data = `
       "code": "fpc",
       "type": "bool"
     },
+     { "name": "Floor pickup Algae",
+      "code": "fpa",
+      "type": "bool"
+    },
     { "name": "Score Coral - L1",
       "code": "sc1",
       "type": "bool"

@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025onnew",
+      "defaultValue": "2025onwat",
       "required": "true"
     },
     { "name": "Match Level",

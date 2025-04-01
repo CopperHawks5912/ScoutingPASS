@@ -33,6 +33,10 @@ var config_data = `
       "code": "fpa",
       "type": "bool"
     },
+    { "name": "Remove Algae from Reef",
+      "code": "rfa",
+      "type": "bool"
+    },
     { "name": "Score Coral - L1",
       "code": "sc1",
       "type": "bool"

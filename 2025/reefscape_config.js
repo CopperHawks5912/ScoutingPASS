@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025onwin",
+      "defaultValue": "2025oncmp2",
       "required": "true"
     },
     { "name": "Match Level",

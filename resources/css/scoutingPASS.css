@@ -39,7 +39,7 @@ html, body{
 
 .button {
     font-family: Alexis;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 #autonHeader, #endgameHeader, #teleopHeader1, #teleopHeader2{
@@ -190,6 +190,10 @@ h2{
 
 }
 
+#minusInc1_afs, #minusInc2_afs, #minus_afs, #input_afs, #plus_afs, #plusInc2_afs, plusInc1_afs {
+    font-size: 30px;
+}
+
 #prematch_table{
     font: Alexis;
     text-align: center;
@@ -244,4 +248,5 @@ input {
     font-family:'Lucida Console', 'monospace';
     text-align: justify;
 }
+
 

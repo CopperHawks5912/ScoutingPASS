@@ -39,7 +39,7 @@ html, body{
 
 .button {
     font-family: Alexis;
-    font-size: 16px;
+    font-size: 24px;
 }
 
 #autonHeader, #endgameHeader, #teleopHeader1, #teleopHeader2{
@@ -244,3 +244,4 @@ input {
     font-family:'Lucida Console', 'monospace';
     text-align: justify;
 }
+

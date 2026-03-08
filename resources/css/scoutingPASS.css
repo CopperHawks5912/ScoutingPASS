@@ -190,8 +190,8 @@ h2{
 
 }
 
-#minusInc1_afs, #minusInc2_afs, #minus_afs, #input_afs, #plus_afs, #plusInc2_afs, #plusInc1_afs, #minusInc1_tfs, #minusInc2_tfs, #minus_tfs, #input_tfs, #plus_tfs, #plusInc2_tfs, #plusInc1_tfs {
-    font-size: 26px;
+#minusInc1_afs, #minusInc2_afs, #minus_afs, #plus_afs, #plusInc2_afs, #plusInc1_afs, #minusInc1_tfs, #minusInc2_tfs, #minus_tfs, #plus_tfs, #plusInc2_tfs, #plusInc1_tfs {
+    font-size: 24px;
 }
 
 #prematch_table{
@@ -248,6 +248,7 @@ input {
     font-family:'Lucida Console', 'monospace';
     text-align: justify;
 }
+
 
 
 

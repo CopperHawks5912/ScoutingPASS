@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026bcvi",
+      "defaultValue": "2026ontor",
       "required": "true"
     },
     { "name": "Match Level",

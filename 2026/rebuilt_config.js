@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026ontor",
+      "defaultValue": "2026onwat",
       "required": "true"
     },
     { "name": "Match Level",
